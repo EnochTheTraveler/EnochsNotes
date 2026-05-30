@@ -11,7 +11,7 @@ Hearken unto me, for I am called *Enoch*. Yet know ye that names are naught but 
 
 I bear this name, his and now mine, on my wanderings and journeys, whilst I devote myself to the art of cartography.
 
-
+***
 
 * About Enoch
 * [Fidschy Hombourg](Fitschy Hombourg.md)

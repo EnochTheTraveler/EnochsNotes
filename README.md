@@ -14,4 +14,4 @@ I bear this name, his and now mine, on my wanderings and journeys, whilst I devo
 ***
 
 * About Enoch
-* [Fidschy Hombourg](./Fitschy Hombourg.md)
+* [Fidschy Hombourg](./Fitschy%20Hombourg.md)

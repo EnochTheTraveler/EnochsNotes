@@ -7,3 +7,5 @@ Als wir heute dort ankamen, standen wir vor einer verschlossenen Tür: Das Gesch
 For many years, we have been drawn back time and again to the Belgian part of the border triangle between Belgium, Germany, and the Netherlands. One of our regular stops was the bakery _Fitschi_, listed on OSM as _[Chez Fitschy](https://www.openstreetmap.org/?mlat=50.723487&mlon=5.921507#map=19/50.723487/5.921507)_.
 
 When we arrived there today, we were met with a locked door: the business was closed down on 01/10/2025 – presumably for reasons of age and a lack of a successor.
+***
+Changeset [#183405217](https://www.openstreetmap.org/changeset/183405217#map=19/50.723483/5.921517)

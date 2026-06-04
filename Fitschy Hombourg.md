@@ -1,4 +1,4 @@
-![Alt text](.attachments/Adieu%20Fitschi.jpg)
+![Alt text](./Pictures/Adieu_Fitschi.jpg)
 Seit vielen Jahren treibt es uns immer wieder in den belgischen Teil des Drei-Länder-Ecks Belgien-Deutschland-Niederlande. Zu einem Fixpunkt gehörte die Backerei _Fitschi_ auf OSM als _[Chez Fitschy](https://www.openstreetmap.org/?mlat=50.723487&mlon=5.921507#map=19/50.723487/5.921507)_ geführt.
 
 Als wir heute dort ankamen, standen wir vor einer verschlossenen Tür: Das Geschäft wurde zum 01.10.2025 – wohl aus Altergründen und mangels Nachfolger – aufgegeben.
